@@ -9,4 +9,4 @@ config.env
 *.log
 .vscode/
 .idea/
-.txt
+*.txt
