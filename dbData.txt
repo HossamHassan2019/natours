@@ -1,6 +1,0 @@
-name : Cluster25484
-RiXLusyl52awIqO3
-databasePassword:dIKqpu8oh8T5ppwd
-mongosh "mongodb+srv://cluster25484.yjijunw.mongodb.net/" --apiVersion 1 --username Cluster25484
-
-mongodb+srv://<db_username>:<db_password>@cluster25484.yjijunw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster25484
